@@ -6,7 +6,7 @@ class check
     static short s2;
    static int i1=30;
    static int i2;
-   static long l1=40;
+   static long l1=40L;
    static long l2;
    static float f1=5.4f;
     static float f2;
